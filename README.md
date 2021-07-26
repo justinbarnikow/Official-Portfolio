@@ -1,12 +1,11 @@
-# Official-Portfolio
-
+# Official-Portfolio of Justin Barnikow
 https://justinbarnikow.github.io/Official-Portfolio/
 
-The official portfolio of Justin Barnikow.
+## Features:
+* projects
+* about me
+* social media links
+* specialties
+* contact page
 
-Includes:
--projects
--about
--contact
--links
--specialties
+## Screenshots
